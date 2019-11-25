@@ -1,0 +1,12 @@
+OC=CCC1CCCCC1	1
+C1CCCCC1	2
+CC=C	3
+OC=C	4
+CC	5
+CCCCC	6
+c1ccccc1	7
+Cc1ccccc1	8
+CCc1ccccc1	9
+Cc1ccccc1O	10
+CN(C)CCc1c[nH]c2ccccc12	11
+NCCc1c[nH]c2ccccc12	12
